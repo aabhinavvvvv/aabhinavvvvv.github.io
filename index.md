@@ -8,6 +8,7 @@ I have experience working with various programming languages, including JavaScri
 In my free time, I love exploring new technologies, contributing to open-source projects, and writing technical blogs. I also enjoy Gaming and Travelling, which help me stay creative and inspired.
 
 My goal is to continue growing as a developer and to work on innovative projects that make a positive impact on people's lives. I am currently working on a personal project that aims to simplify task management for teams.
+</div>
 
 
 
@@ -18,7 +19,7 @@ My goal is to continue growing as a developer and to work on innovative projects
 | 10th   | St. Patrick's    | 2020  |
 | 12th   | St. Patrick's    | 2022  |
 | B.Tech | MNIT Jaipur      | 2027  |
-<
+
 
 ## Interests
 - Web Development
@@ -29,4 +30,3 @@ My goal is to continue growing as a developer and to work on innovative projects
 
 ## Contact
 You can reach me at [Click Here](mailto:abhinavguptaxia9213@gmail.com).
-</div>
